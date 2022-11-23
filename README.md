@@ -1,2 +1,3 @@
 # Tabnews
-Aplicativo criado
+
+> Futuramente essa página será atualizado!
